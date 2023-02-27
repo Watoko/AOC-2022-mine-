@@ -1,4 +1,4 @@
-# AOC-2022-mine-
+# AOC 2022 mine
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [watoko][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
